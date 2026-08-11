@@ -58,3 +58,11 @@
 - **LPT порт:** для подключения к станку
 
 ---
+
+## 👤 Автор
+Дмитрий Леонтьев (DiamondDim)
+18+ лет опыта работы с промышленным оборудованием
+Наладчик станков с ЧПУ
+Python Backend Developer
+### 📧 Email: mecheny9180@gmail.com
+### 🐙 GitHub: [github.com/DiamondDim](https://github.com/DiamondDim)
